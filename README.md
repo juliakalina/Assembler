@@ -1,4 +1,4 @@
-### **MEPhI course "Assembler(aarch64)"**
+## **MEPhI course "Assembler(aarch64)"**
 
 Lab 1:
 working with fractions
